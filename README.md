@@ -81,8 +81,8 @@ My work blends analytical thinking with spatial problem‑solving. Whether I’m
 ---
 
 ## 📫 Contact
-- **LinkedIn:** [Your Link]  
-- **Email:** [Your Email]  
-- **Portfolio Website (optional):** [Link]
+- **LinkedIn:** [Stephen Teet](https://www.linkedin.com/in/stephen-teet/)  
+- **Email:** [Stephen Teet](teet.stephen@gmail.com)  
+- **Portfolio Website (optional):** [Stephen's Portfolio]
 
 Thanks for stopping by — feel free to explore my projects or reach out if you'd like to connect.
