@@ -66,7 +66,7 @@ CREATE TABLE inventory (
 -- For CSV loading to work, you may need to adjust MySQL secure_file_priv settings
 
 -- Load calendar data
-LOAD DATA INFILE '/path/to/calendar.csv'
+LOAD DATA LOCAL INFILE '/path/to/calendar.csv'
 INTO TABLE calendar
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -76,7 +76,7 @@ IGNORE 1 ROWS
 SET date = STR_TO_DATE(@date_str, '%m/%d/%Y');
 
 -- Load stores data
-LOAD DATA INFILE '/path/to/stores.csv'
+LOAD DATA LOCAL INFILE '/path/to/stores.csv'
 INTO TABLE stores
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -84,7 +84,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Load products data (remove $ and spaces from cost/price columns)
-LOAD DATA INFILE '/path/to/products.csv'
+LOAD DATA LOCAL INFILE '/path/to/products.csv'
 INTO TABLE products
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -96,7 +96,7 @@ SET
     product_price = CAST(REPLACE(REPLACE(@price, '$', ''), ' ', '') AS DECIMAL(10,2));
 
 -- Load inventory data
-LOAD DATA INFILE '/path/to/inventory.csv'
+LOAD DATA LOCAL INFILE '/path/to/inventory.csv'
 INTO TABLE inventory
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -104,7 +104,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Load sales data
-LOAD DATA INFILE '/path/to/sales.csv'
+LOAD DATA LOCAL INFILE '/path/to/sales.csv'
 INTO TABLE sales
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
