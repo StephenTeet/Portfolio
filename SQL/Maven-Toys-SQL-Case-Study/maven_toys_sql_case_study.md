@@ -112,7 +112,7 @@ CREATE TABLE inventory (
 
 ```sql
 -- Load products (remove $ and spaces from cost/price columns)
-LOAD DATA INFILE 'products.csv'
+LOAD DATA LOCAL INFILE 'products.csv'
 INTO TABLE products
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -125,7 +125,7 @@ SET
     product_price = CAST(REPLACE(REPLACE(@price, '$', ''), ' ', '') AS DECIMAL(10,2));
 
 -- Load stores
-LOAD DATA INFILE 'stores.csv'
+LOAD DATA LOCAL INFILE 'stores.csv'
 INTO TABLE stores
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -133,7 +133,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Load calendar
-LOAD DATA INFILE 'calendar.csv'
+LOAD DATA LOCAL INFILE 'calendar.csv'
 INTO TABLE calendar
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -142,7 +142,7 @@ IGNORE 1 ROWS
 SET date = STR_TO_DATE(@date_str, '%m/%d/%Y');
 
 -- Load sales
-LOAD DATA INFILE 'sales.csv'
+LOAD DATA LOCAL INFILE 'sales.csv'
 INTO TABLE sales
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -150,7 +150,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 
 -- Load inventory
-LOAD DATA INFILE 'inventory.csv'
+LOAD DATA LOCAL INFILE 'inventory.csv'
 INTO TABLE inventory
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
