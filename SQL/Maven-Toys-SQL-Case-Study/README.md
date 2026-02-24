@@ -70,14 +70,14 @@ This case study demonstrates advanced SQL analytics capabilities through compreh
 │ cost         │         │ units        │         │ location     │
 │ price        │         │ sale_id PK   │         │ open_date    │
 └──────────────┘         └──────────────┘         └──────────────┘
-       │                        │                         │
-       │                        │                         │
-       │                 ┌──────────────┐                 │
-       │                 │  calendar    │                 │
-       │                 ├──────────────┤                 │
-       │                 │ date PK      │                 │
-       │                 └──────────────┘                 │
-       │                                                  │
+       │                        │                        │
+       │                        │                        │
+       │                 ┌──────────────┐                │
+       │                 │  calendar    │                │
+       │                 ├──────────────┤                │
+       │                 │ date PK      │                │
+       │                 └──────────────┘                │
+       │                                                 │
        └──────────────────────┬──────────────────────────┘
                               │
                        ┌──────────────┐
@@ -302,7 +302,7 @@ source sql/04_advanced_queries.sql
 
 This project demonstrates concepts from:
 - **SQL for Data Analysis** by Cathy Tanimura
-- **Data Analysis with SQL and Python** (Coursera)
+- **The Ultimate MySQL Bootcamp: Go From SQL Beginner to Expert** (Udemy)
 - **Mode SQL Tutorial** - Advanced analytics
 
 ---
