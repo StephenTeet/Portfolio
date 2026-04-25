@@ -17,14 +17,14 @@ My work blends analytical thinking with spatial problem‑solving. Whether I’m
 
 ## 📂 Featured Projects
 
-### 📊 Power BI Dashboards
-- **Project Name 1**  
-  Interactive dashboard analyzing trends in \_\_\_.  
-  [View Project](#) • [Repository](#)
+### 🐍 Python Data Science/ML
+- **Restaurant Recommender**  
+  Python / Machine Learning project leveraging existing data and tools to help locate the perfect restaurant near you.  
+  [Notebook](#) • [Repository](#)
 
-- **Project Name 2**  
-  KPI‑driven report for \_\_\_.  
-  [View Project](#) • [Repository](#)
+- **Python Project 2**  
+  Automation or ETL workflow for \_\_\_.  
+  [Notebook](#) • [Repository](#)
 
 ---
 
@@ -47,17 +47,6 @@ My work blends analytical thinking with spatial problem‑solving. Whether I’m
 - **SQL Case Study 2**  
   Window functions, joins, and CTEs to analyze \_\_\_.  
   [Repository](#)
-
----
-
-### 🐍 Python Analytics
-- **Python Project 1**  
-  Data cleaning and exploratory analysis of \_\_\_.  
-  [Notebook](#) • [Repository](#)
-
-- **Python Project 2**  
-  Automation or ETL workflow for \_\_\_.  
-  [Notebook](#) • [Repository](#)
 
 ---
 
