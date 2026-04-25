@@ -1,0 +1,11 @@
+django>=4.2
+djangorestframework
+django-cors-headers
+scikit-learn
+pandas
+numpy
+requests          # OSM/Overpass API calls
+geopy             # Distance calculations
+openrouteservice  # Drive time via OSM routing
+psycopg2-binary   # PostgreSQL
+python-dotenv
