@@ -1,14 +1,14 @@
 # Hi, I'm Stephen 👋  
-### Data Analytics • Business Intelligence • GIS • Environmental Data
+### Data Science • GIS • AI • Data Vizualisation
 
-I’m a data‑driven analyst with a background in environmental science, GIS, and business intelligence. I specialize in transforming complex datasets into clear, actionable insights using tools like Power BI, SQL, Python, and ArcGIS.
+I’m a data‑driven professional with a background in environmental science, GIS, Data Science and Data Vizualisation. I specialize in transforming complex datasets into clear, actionable insights using tools like SQL, Python, R, and ArcGIS.
 
-My work blends analytical thinking with spatial problem‑solving. Whether I’m building dashboards, analyzing geospatial patterns, or cleaning messy data, I focus on uncovering insights that support real‑world decisions.
+My work blends analytical thinking with spatial problem‑solving. Whether I’m building Machine Learning models, analyzing geospatial patterns, or cleaning messy data, I focus on uncovering insights that support real‑world decisions.
 
 ---
 
 ## 🔍 What I Do
-- **Data Analytics & BI:** Power BI, Tableau, SQL, Excel, data modeling  
+- **Data Science:** Python, SQL, R, Excel, Machine Larning, predictive modeling  
 - **GIS & Geospatial Analysis:** ArcGIS Pro, QGIS, spatial analysis, geoprocessing  
 - **Python for Analytics:** Pandas, data cleaning, automation  
 - **Environmental & Geospatial Data:** Raster/vector workflows, mapping, reporting  
