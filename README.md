@@ -20,7 +20,7 @@ My work blends analytical thinking with spatial problem‑solving. Whether I’m
 ### 🐍 Python Data Science/ML
 - **Restaurant Recommender**  
   Python / Machine Learning project leveraging existing data and tools to help locate the perfect restaurant near you.  
-  [Notebook](#) • [Repository](Python/RestaurantRecommender/)
+  [Notebook](#) • [Repository](Python/RestaurantRecommender/readme.md#)
 
 - **Python Project 2**  
   Automation or ETL workflow for \_\_\_.  
