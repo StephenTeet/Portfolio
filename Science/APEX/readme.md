@@ -5,7 +5,7 @@
 ---
 
 ### Study Link
-[Model Optimization of APEX:] (https://docs.google.com/presentation/d/1RvPYtETI1bMWlAk3jQac055UR5vwCpKwBIaQcRdKcbI/edit?usp=sharing)
+[Model Optimization of APEX:](https://docs.google.com/presentation/d/1RvPYtETI1bMWlAk3jQac055UR5vwCpKwBIaQcRdKcbI/edit?usp=sharing)
 
 ---
 
