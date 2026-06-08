@@ -1,6 +1,6 @@
 # APEX Case Study
 
-## Model optimization of the APEX Model, a multi-parameter agrucultural management tool
+## Optimization of the APEX Model, a multi-parameter agrucultural management tool
 
 ---
 
