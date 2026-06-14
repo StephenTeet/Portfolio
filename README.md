@@ -1,4 +1,4 @@
-![Data Science Portfolio banner](stdsban1.png)
+![Data Science Portfolio banner](stdsban2.png)
 
 # Hi, I'm Stephen 👋  
 ### Data Science • GIS • AI • Data Vizualisation
