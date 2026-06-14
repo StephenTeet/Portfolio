@@ -1,6 +1,19 @@
 ![Data Science Portfolio banner](stdsban2.png)
 
 # Hi, I'm Stephen 👋  
+
+This is my Data Science portfolio. 📊
+
+I have included relavent research projects I have been a part of throughot the years. 👨‍🔬
+
+Feel free to contact me! 😎
+
+- **LinkedIn:** [Stephen Teet](https://www.linkedin.com/in/stephen-teet/)  
+- **Email:** [Stephen Teet](teet.stephen@gmail.com)  
+- **Portfolio Website (optional):** [Stephen's Portfolio]
+
+---
+
 ### Data Science • GIS • AI • Data Vizualisation
 
 I’m a data‑driven professional with a background in environmental science, GIS, Data Science and Data Vizualisation. I specialize in transforming complex datasets into clear, actionable insights using tools like SQL, Python, R, and ArcGIS.
@@ -70,10 +83,5 @@ My work blends analytical thinking with spatial problem‑solving. Whether I’m
 **Other:** GitHub, Jupyter, ModelBuilder  
 
 ---
-
-## 📫 Contact
-- **LinkedIn:** [Stephen Teet](https://www.linkedin.com/in/stephen-teet/)  
-- **Email:** [Stephen Teet](teet.stephen@gmail.com)  
-- **Portfolio Website (optional):** [Stephen's Portfolio]
 
 Thanks for stopping by — feel free to explore my projects or reach out if you'd like to connect.
